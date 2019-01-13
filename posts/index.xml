@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Hello, I&#39;m Youwithouto</title>
+		<link>http://youwithouto.xyz/posts/</link>
+		<description>Recent content in Posts on Hello, I&#39;m Youwithouto</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sun, 13 Jan 2019 16:18:36 +1100</lastBuildDate>
+		<atom:link href="http://youwithouto.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Hello World</title>
+			<link>http://youwithouto.xyz/2019/01/hello-world/</link>
+			<pubDate>Sun, 13 Jan 2019 16:18:36 +1100</pubDate>
+			
+			<guid>http://youwithouto.xyz/2019/01/hello-world/</guid>
+			<description>This is the &amp;ldquo;hello, world&amp;rdquo; of my new blog.
+New content, no start.</description>
+			<content type="html"><![CDATA[<p>This is the &ldquo;hello, world&rdquo; of my new blog.</p>
+
+<p>New content, no start.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
